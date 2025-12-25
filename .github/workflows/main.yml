@@ -1,4 +1,4 @@
-name: CI_Build_Push
+name: BIDUI
 
 on:
   push:
